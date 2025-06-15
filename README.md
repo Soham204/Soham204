@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Soham Padalikar!
+
 # 💫 About Me:
 💼 Salesforce Developer | Problem solver<br>🌱 Currently learning Python and sharpening my skills in Data Structures & Algorithms  <br>🤝 I’m looking to collaborate on open-source projects and innovative tech solutions.<br>⚡ Fun fact: I often break things on purpose—just to learn how to fix them
 
@@ -7,6 +9,7 @@
 
 # 💻 Tech Stack:
 ![Languages](https://skillicons.dev/icons?i=python,cpp,java,css,html,js,git,github&perline=10)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Soham204&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Soham204&theme=dark&hide_border=false)<br/>
